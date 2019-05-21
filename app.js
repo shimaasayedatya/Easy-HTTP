@@ -7,9 +7,9 @@ const http = new EasyHTTP;
 
 // User Data
 const data = {
-  name: 'John Doe',
-  username: 'johndoe',
-  email: 'jdoe@gmail.com'
+  name: 'shimaa',
+  username: 'shimaasayed',
+  email: 'shimaa@gmail.com'
 }
 
 // Create User
